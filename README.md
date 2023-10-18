@@ -8,3 +8,5 @@ git init
 gid add README.md
 
 gid commit -m "my commit message"
+
+It's me again! - trying out VS CODE
